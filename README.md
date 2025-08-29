@@ -1,4 +1,4 @@
-Just change
+Just change in <!--Footer Column-->
 
  <div class="footer-column col-lg-4 col-md-12 col-sm-12">
 
